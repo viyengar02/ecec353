@@ -1,0 +1,13 @@
+total 132
+-rw-r--r-- 1 vi44 domain users  1743 Feb 12 14:59 builtin.c
+-rw-r--r-- 1 vi44 domain users   175 Feb 12 14:59 builtin.h
+-rw-r--r-- 1 vi44 domain users  6496 Feb 12 15:05 builtin.o
+-rw-r--r-- 1 vi44 domain users     0 Feb 12 15:12 directory_contents.txt
+-rw-r--r-- 1 vi44 domain users 12896 Feb 12 14:57 job_handler.o
+-rw-r--r-- 1 vi44 domain users   377 Feb 12 14:57 Makefile
+-rw-r--r-- 1 vi44 domain users  8404 Feb 12 14:57 parse.c
+-rw-r--r-- 1 vi44 domain users   635 Feb 12 14:57 parse.h
+-rw-r--r-- 1 vi44 domain users 18496 Feb 12 15:05 parse.o
+-rwxr-xr-x 1 vi44 domain users 32808 Feb 12 15:09 pssh
+-rw-r--r-- 1 vi44 domain users  5952 Feb 12 15:09 pssh.c
+-rw-r--r-- 1 vi44 domain users 13536 Feb 12 15:09 pssh.o
